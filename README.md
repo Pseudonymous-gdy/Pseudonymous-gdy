@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a freshman from HKUST(GZ), and a beginner to Github! You may reach me through my student email if necessary:
+dguo294@connect.hkust-gz.edu.cn
+
+## I’m currently working on ... 🔭
+I'm currently working on a Smart Desk Project (https://github.com/Pseudonymous-gdy/Smart-Desk-in-HKUST-GZ-).
+This is a project aimed at creating a desk that can alter shapes depending on the objects put on the desk.
+
+## I’m currently learning ... 🌱
+Also, I'm interested in Reinforcement Learning. My learning process is put online.
