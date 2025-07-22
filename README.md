@@ -28,3 +28,4 @@ Also, I'm interested in Reinforcement Learning, and currently designing algorith
 ## I'm looking to collaborate on ... 👯
 - Tasks on real world scenarios (preferred if related to AI skills)
 - Mathematical study group on Probability, Real Analysis, etc.
+- One who could offer a better photo for my profile (my current one is originated from Evan Chen [About Evan Chen](https://web.evanchen.cc/)).
