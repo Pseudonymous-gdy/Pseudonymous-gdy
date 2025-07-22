@@ -22,4 +22,9 @@ I'm currently working on a Smart Desk Project (https://github.com/Pseudonymous-g
 This is a project aimed at creating a desk that can alter shapes depending on the objects put on the desk.
 
 ## I’m currently learning ... 🌱
-Also, I'm interested in Reinforcement Learning. My learning process is put online.
+As an incoming sophomore, I'm currently delving into machine learning theorems, with available work and notes updated.
+Also, I'm interested in Reinforcement Learning, and currently designing algorithms on bandit problems. Other related tasks are also preferred.
+
+## I'm looking to collaborate on ... 👯
+- Tasks on real world scenarios (preferred if related to AI skills)
+- Mathematical study group on Probability, Real Analysis, etc.
