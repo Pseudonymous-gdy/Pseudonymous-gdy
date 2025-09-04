@@ -18,12 +18,10 @@ I'm a freshman from HKUST(GZ), and a beginner to Github! You may reach me throug
 dguo294@connect.hkust-gz.edu.cn
 
 ## I’m currently working on ... 🔭
-> [!tips]
-> I'm currently working on a project trying to elaborate a model combining Mixture of Experts with Bayesian Learning. This project would last for about 3 months, with me as the only human author (of course I seek help from GenAI tools).
+I'm currently working on a project trying to elaborate a model combining Mixture of Experts with Bayesian Learning. This project would last for about 3 months, with me as the only human author (of course I seek help from GenAI tools).
 
 ## I’m currently learning ... 🌱
-> [!tips]
-> As a sophomore, I'm currently delving into machine learning theorems and deep learning, with available work and notes updated.
+As a sophomore, I'm currently delving into machine learning theorems and deep learning, with available work and notes updated.
 Also, I'm interested in Reinforcement Learning, and currently designing algorithms on bandit problems. Other related tasks are also preferred.
 
 ## I'm looking to collaborate on ... 👯
